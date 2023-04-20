@@ -13,44 +13,26 @@
 ## Contents
 
 - [About](#about)
-- [Curricular Guideline](#curricular-guideline)
 - [Curriculum](#curriculum)
-- [How to use this guide](#how-to-use-this-guide)
 - [Prerequisites](#prerequisites)
-- [How to contribute](#how-to-contribute)
-- [Code of conduct](#code-of-conduct)
 - [Community](#community)
 - [Team](#team)
-
-## About
-
-This is a path for those of you who want to complete the Data Science undergraduate curriculum on your own time, **for free**, with courses from the **best universities** in the World.
-
-In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
-
-## Curricular Guideline
-
-OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.amstat.org/asa/files/pdfs/EDU-DataScienceGuidelines.pdf) as our guide for course recommendation.
 
 ## Curriculum
 
 ---
 
 ### Introduction to Data Science
-[What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+[Intro to data science](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 
 ### Introduction to Computer Science
-_Students who already know basic programming in any language can skip this first course_
-
-[Python for Everybody](https://www.py4e.com/) 
+[Python for Everybody](https://www.coursera.org/specializations/python) 
 
 [Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 ### Data Structures and Algorithms
-_The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
-
 [Java Programming](https://java-programming.mooc.fi/)
 
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
@@ -92,63 +74,40 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-### Data Science Tools & Methods
-[Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
+### Data Science with R
+[Professional Certificate in Data Science](https://pll.harvard.edu/series/professional-certificate-data-science)
 
-[Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
+Companion Books
 
-[Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling)
+[R for Data Science](https://r4ds.had.co.nz/)
 
-### Machine Learning/Data Mining
-[Machine Learning](https://www.coursera.org/learn/machine-learning)
+[Advanced R](https://adv-r.hadley.nz/)
 
-[Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+[ISL](https://www.statlearning.com/)
 
-[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
+### Data Science with Python
+[MicroMasters® Program in Data Science](https://www.edx.org/micromasters/uc-san-diegox-data-science)
 
-[Process Mining](https://www.coursera.org/learn/process-mining)
+Companion books
 
-## How to use this guide
+[Python for Data Analysis](https://wesmckinney.com/book/)
 
-### Duration
-It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1TEGSUQDFuWL3TYNjiM8G3esly-tKOcgHSDABt92mzdA/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the Curriculum Data sheet and get updated completion estimates.
+[Fundamentals of data vizualization](https://clauswilke.com/dataviz/)
 
-### Order of the classes
+[Hands-on ML with scikit-learn, keras and tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp 1098125975/dp/1098125975/ref=dp_ob_title_bk)
 
-Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
+### Theoretical Data Science
+[Introduction to data science](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRhHnJRy7K41LtlGpcr5MXD9)
 
-![Topic Progression Graph](topic_progression_graph.jpg)
+Pre-requisites
 
-### Track your progress
+[Artificial Intelligence](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRjsEIvwpRWjuLHh9UEOF8Mb)
 
-1. Create an account in [Trello](https://trello.com/).
-1. Copy [this](https://trello.com/b/JpvLwQfr/ossu-data-science) board to your personal account.
-See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
-
-Now you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
-
-### Which programming languages should I use?
-
-Python and R are heavily used in Data Science community and our courses teach you both. Remember, the important thing for each course is to internalize the core concepts and to be able to use them with whatever tool (programming language) that you wish.
-
-### Content Policy
-
-You must share only files that you are allowed. **Do NOT disrespect the code of conduct** that you sign in the beginning of your courses.
+[Blockchain](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRjZTZSA_gVpk2xf6QKr_QyZ)
 
 ## Prerequisites
 
 The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
-
-## How to contribute
-
-You can [open an issue](https://help.github.com/articles/creating-an-issue/) and give us your suggestions as to how we can improve this guide, or what we can do to improve the learning experience.
-
-You can also [fork this project](https://help.github.com/articles/fork-a-repo/) and send a [pull request](https://help.github.com/articles/using-pull-requests/) to fix any mistakes that you have found.
-
-If you want to suggest a new resource, send a pull request adding such resource to the [extras](https://github.com/open-source-society/data-science/tree/master/extras) section. The **extras** section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations.
-
-## Code of Conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
 ## Community
 
@@ -159,8 +118,3 @@ Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
 Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
-
-## Team
-
-* **Curriculum Maintainer**: [Waciuma Wanjohi](https://github.com/waciumawanjohi)
-* **Contributors**: [contributors](https://github.com/open-source-society/data-science/graphs/contributors)
