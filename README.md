@@ -99,6 +99,10 @@ Companion books
 
 Pre-requisites
 
+[AWS cloud](https://aws.amazon.com/training/)
+
+[GCP cloud](https://cloud.google.com/learn/training)
+
 [Artificial Intelligence](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRjsEIvwpRWjuLHh9UEOF8Mb)
 
 [Blockchain](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRjZTZSA_gVpk2xf6QKr_QyZ)
