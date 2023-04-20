@@ -92,7 +92,7 @@ Companion books
 
 [Fundamentals of data vizualization](https://clauswilke.com/dataviz/)
 
-[Hands-on ML with scikit-learn, keras and tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp 1098125975/dp/1098125975/ref=dp_ob_title_bk)
+[Hands-on machine learning with scikit-learn,keras and tensorflow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp)
 
 ### Theoretical Data Science
 [Introduction to data science](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRhHnJRy7K41LtlGpcr5MXD9)
