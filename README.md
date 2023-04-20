@@ -1,5 +1,3 @@
-![Open Source Society logo](http://i.imgur.com/kYYCXtC.png)
-
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
