@@ -99,6 +99,8 @@ Companion books
 
 Pre-requisites
 
+[CS50's Web Programming with JavaScript and Python](https://cs50.harvard.edu/web/2020/)
+
 [AWS cloud](https://aws.amazon.com/training/)
 
 [GCP cloud](https://cloud.google.com/learn/training)
@@ -106,6 +108,7 @@ Pre-requisites
 [Artificial Intelligence](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRjsEIvwpRWjuLHh9UEOF8Mb)
 
 [Blockchain](https://www.youtube.com/playlist?list=PL1Xmyl4aKTRjZTZSA_gVpk2xf6QKr_QyZ)
+
 
 ## Prerequisites
 
